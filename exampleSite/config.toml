@@ -1,5 +1,5 @@
 baseURL = "https://covidresourcesforindia.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
